@@ -1,6 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to your Final Project!
+# Weather Forecast Image
+
+Pedro Afonso DAPT2021
+Ironhack Lisbon Campus
 
 ## Content
 - [Project Description](#project-description)
